@@ -6,3 +6,6 @@ A exploration on counting methods and their related probabilities.
 
 ## Project 2
 A Monte Carlo simulation with multiple outcomes per event. As well as an exponential distribution in one possible event. Explore the use of pseudorandomness to allow replication of experiments with seemingly random outcomes. 
+
+## Project 3
+
